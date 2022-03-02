@@ -15,7 +15,7 @@ app.locals.songs = songs;
 app.get('/api/v1/songs', (request, response) => {
   const { songs } = app.locals;
 
-  response.json({ songs });
+  response.status(200).json({ songs });
 })
 
 app.listen(app.get('port'), () => {
