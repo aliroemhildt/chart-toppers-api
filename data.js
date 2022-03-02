@@ -123,6 +123,36 @@ module.exports = {
 
   },
   2021: {
+    song1: {
+      id: 1,
+      title: 'Levitating',
+      artist: 'Dua Lipa',
+      image_url: ''
+    },
+    song2: {
+      id: 2,
+      title: 'Save Your Tears',
+      artist: 'The Weekend and Ariana Grande',
+      image_url: ''
+    },
+    song3: {
+      id: 3,
+      title: 'Blinding Lights',
+      artist: 'The Weekend',
+      image_url: ''
+    },
+    song4: {
+      id: 4,
+      title: 'Mood',
+      artist: '24kGoldn featuring iann dior',
+      image_url: ''
+    },
+    song5: {
+      id: 5,
+      title: 'Good 4 U',
+      artist: 'Olivia Rodrigo',
+      image_url: ''
+    }
 
   }
 }
