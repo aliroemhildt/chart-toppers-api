@@ -1,4 +1,4 @@
-export default songData = {
+module.exports = {
   1980: {
 
   },
