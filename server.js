@@ -9,7 +9,7 @@ app.use(cors());
 //   origin: 'http://localhost:3000/'
 // }));
 
-app.set('port', 4000);
+app.set('port', process.env.PORT || 4000);
 
 app.locals.title = 'Chart Toppers API';
 
@@ -20,5 +20,5 @@ app.get('/api/v1/songs', (request, response) => {
 })
 
 app.listen(app.get('port'), () => {
-  console.log(`${app.locals.title} is running on http://localhost:${app.get('port')}`);
+  console.log(`Server started successfuly`);
 })
