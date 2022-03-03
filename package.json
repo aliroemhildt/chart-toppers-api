@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/aliroemhildt/chart-toppers-api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.3"
   }
 }
