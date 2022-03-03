@@ -804,31 +804,31 @@ module.exports = {
       id: 126,
       title: 'We Belong Together',
       artist: 'Mariah Carey',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51pVQFMM+WL._UX500_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 127,
       title: 'Hollaback Girl',
       artist: 'Gwen Stefani',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51Nn7hTjJKL._UX500_FMwebp_QL85_.jpg'
     },
     song3: {
       id: 128,
       title: 'Let Me Love You',
       artist: 'Mario',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/41jAVw-vKpL._UX500_FMwebp_QL85_.jpg'
     },
     song4: {
       id: 129,
       title: 'Since U Been Gone',
       artist: 'Kelly Clarkson',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51zVX+AsuLL._UX500_FMwebp_QL85_.jpg'
     },
     song5: {
       id: 130,
-      title: '1, 2 Step',
+      title: 'One, Two Step',
       artist: 'Ciara featuring Missy Elliott',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51sY+vGRuiL._UX500_FMwebp_QL85_.jpg'
     }
   },
   2006: {
@@ -836,31 +836,31 @@ module.exports = {
       id: 131,
       title: 'Bad Day',
       artist: 'Daniel Powter',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51tTEXNXY-L._UX500_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 132,
       title: 'Temperature',
       artist: 'Sean Paul',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51H7IeK4xCL._UX500_FMwebp_QL85_.jpg'
     },
     song3: {
       id: 133,
       title: 'Promiscuous',
       artist: 'Nelly Furtado featuring Timbaland',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51N-636NPlS._UX500_FMwebp_QL85_.jpg'
     },
     song4: {
       id: 134,
       title: 'You\'re Beautiful',
       artist: 'James Blunt',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/619a7pQgReL._UX500_FMwebp_QL85_.jpg'
     },
     song5: {
       id: 135,
       title: 'Hips Don\'t Lie',
-      artist: '',
-      image_url: ''
+      artist: 'Shakira featuring Wyclef Jean',
+      image_url: 'https://m.media-amazon.com/images/I/51ZpZ8PPiTL._UX500_FMwebp_QL85_.jpg'
     }
   },
   2007: {
@@ -868,31 +868,31 @@ module.exports = {
       id: 136,
       title: 'Irreplaceable',
       artist: 'Beyoncé',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51vtG0pSksL._UX500_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 137,
       title: 'Umbrella',
       artist: 'Rihanna featuring Jay-Z',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/41maB+I4XjL._UX500_FMwebp_QL85_.jpg'
     },
     song3: {
       id: 138,
       title: 'The Sweet Escape',
       artist: 'Gwen Stefani featuring Akon',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51MqZCTj5BL._UX500_FMwebp_QL85_.jpg'
     },
     song4: {
       id: 139,
       title: 'Big Girls Don\'t Cry',
       artist: 'Fergie',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51PU7iwnYcL._UX500_FMwebp_QL85_.jpg'
     },
     song5: {
       id: 140,
       title: 'Buy U a Drank (Shawty Snappin\')',
       artist: 'T-Pain featuring Yung Joc',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51xIehEQf1L._UX500_FMwebp_QL85_.jpg'
     }
   },
   2008: {
@@ -900,31 +900,31 @@ module.exports = {
       id: 141,
       title: 'Low',
       artist: 'Flo Rida featuring T-Pain',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/61sW3gLAt8L._UX500_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 142,
       title: 'Bleeding Love',
       artist: 'Leona Lewis',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51OMBRkaVhL._UX500_FMwebp_QL85_.jpg'
     },
     song3: {
       id: 143,
       title: 'No One',
       artist: 'Alicia Keys',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51RQApflmQL._UX500_FMwebp_QL85_.jpg'
     },
     song4: {
       id: 144,
       title: 'Lollipop',
       artist: 'Lil Wayne featuring Static Major',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51uDicOLZZL._UX500_FMwebp_QL85_.jpg'
     },
     song5: {
       id: 145,
       title: 'Apologize',
       artist: 'Timbalanad Featuring OneRepublic',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51mIvXG7blL._UX500_FMwebp_QL85_.jpg'
     }
   },
   2009: {
@@ -932,31 +932,31 @@ module.exports = {
       id: 146,
       title: 'Boom Boom Pow',
       artist: 'The Black Eyed Peas',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51zpdGm6y3L._UX500_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 147,
       title: 'Poker Face',
       artist: 'Lady Gaga',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51mrXDchkZL._UX500_FMwebp_QL85_.jpg'
     },
     song3: {
       id: 148,
       title: 'Just Dance',
       artist: 'Lady Gaga featuring Colby O\'Donis',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51mrXDchkZL._UX500_FMwebp_QL85_.jpg'
     },
     song4: {
       id: 149,
       title: 'I Gotta Feeling',
       artist: 'The Black Eyed Peas',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/41g26hAlxpL._UX500_FMwebp_QL85_.jpg'
     },
     song5: {
       id: 150,
       title: 'Love Story',
       artist: 'Taylor Swift',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/51g0OT+vfDL._UX500_FMwebp_QL85_.jpg'
     }
   },
   2010: {
@@ -964,7 +964,7 @@ module.exports = {
       id: 151,
       title: 'Tik Tok',
       artist: 'Ke$ha',
-      image_url: ''
+      image_url: 'https://m.media-amazon.com/images/I/61bqP3BMkUL._UX500_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 152,
@@ -1316,19 +1316,19 @@ module.exports = {
       id: 206,
       title: 'Levitating',
       artist: 'Dua Lipa',
-      image_url: 'https://m.media-amazon.com/images/I/51A6w1O7Z9L._UX716_FMwebp_SS700_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/51A6w1O7Z9L._UX716_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 207,
       title: 'Save Your Tears',
       artist: 'The Weekend & Ariana Grande',
-      image_url: 'https://m.media-amazon.com/images/I/51ieq7FizpS._UX716_FMwebp_SS600_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/51ieq7FizpS._UX716_FMwebp_QL85_.jpg'
     },
     song3: {
       id: 208,
       title: 'Blinding Lights',
       artist: 'The Weekend',
-      image_url: 'https://m.media-amazon.com/images/I/41ofoJR3ZuL._UX716_FMwebp_SS700_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/41ofoJR3ZuL._UX716_FMwebp_QL85_.jpg'
     },
     song4: {
       id: 209,
