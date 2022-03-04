@@ -1284,13 +1284,13 @@ module.exports = {
       id: 201,
       title: 'Blinding Lights',
       artist: 'The Weekend',
-      image_url: 'https://m.media-amazon.com/images/I/51ieq7FizpS._UX716_FMwebp_SS600_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/41ofoJR3ZuL._UX716_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 202,
       title: 'Circles',
       artist: 'Post Malone',
-      image_url: 'https://m.media-amazon.com/images/I/41etecSUOSL._UX500_FMwebp_QL85_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/41etecSUOSL._UX716_FMwebp_QL85_.jpg'
     },
     song3: {
       id: 203,
@@ -1302,13 +1302,13 @@ module.exports = {
       id: 204,
       title: 'Don\'t Start Now',
       artist: 'Dua Lipa',
-      image_url: 'https://m.media-amazon.com/images/I/51fLcXbfjIL._UX500_FMwebp_QL85_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/51A6w1O7Z9L._UX716_FMwebp_QL85_.jpg'
     },
     song5: {
       id: 205,
       title: 'Rockstar',
       artist: 'DaBaby featuring Roddy Ricch',
-      image_url: 'https://m.media-amazon.com/images/I/41soCM9m6iL._UX500_FMwebp_QL85_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/41soCM9m6iL._UX716_FMwebp_QL85_.jpg'
     }
   },
   2021: {
@@ -1316,7 +1316,7 @@ module.exports = {
       id: 206,
       title: 'Levitating',
       artist: 'Dua Lipa',
-      image_url: 'https://m.media-amazon.com/images/I/51A6w1O7Z9L._UX716_FMwebp_QL85_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/51WfJxHGFYL._UX716_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 207,
@@ -1340,7 +1340,7 @@ module.exports = {
       id: 210,
       title: 'Good 4 U',
       artist: 'Olivia Rodrigo',
-      image_url: 'https://m.media-amazon.com/images/I/41GOpp3tSJL._UX716_FMwebp_QL85_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/41DFpdlNDuL._UX716_FMwebp_QL85_.jpg'
     }
   }
 }
