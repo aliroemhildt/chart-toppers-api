@@ -65,25 +65,25 @@ module.exports = {
   },
   1982: {
     song1: {
-      id: 12,
+      id: 11,
       title: 'Physical',
       artist: 'Olivia Newton-John',
       image_url: 'https://m.media-amazon.com/images/I/415bnPXTXSL._UX250_FMwebp_QL85_.jpg'
     },
     song2: {
-      id: 13,
+      id: 12,
       title: 'Eye of the Tiger',
       artist: 'Survivor',
       image_url: 'https://m.media-amazon.com/images/I/5163viFSWeL._UX250_FMwebp_QL85_.jpg'
     },
     song3: {
-      id: 14,
+      id: 13,
       title: 'I Love Rock \'n Roll',
       artist: 'Joan Jett & The Blackhearts',
       image_url: 'https://m.media-amazon.com/images/I/411dxkjMo7L._UX250_FMwebp_QL85_.jpg'
     },
     song4: {
-      id: 15,
+      id: 14,
       title: 'Ebony and Ivory',
       artist: 'Paul McCartney and Stevie Wonder',
       image_url: 'https://m.media-amazon.com/images/I/51zEeHNDi4L._UX250_FMwebp_QL85_.jpg'
