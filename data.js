@@ -1252,7 +1252,7 @@ module.exports = {
       id: 196,
       title: 'Old Town Road',
       artist: 'Lil Nax X featuring Billy Ray Cyrus',
-      image_url: 'https://m.media-amazon.com/images/I/41DN4sJ2BkL._UX500_FMwebp_QL85_.jpg'
+      image_url: 'https://m.media-amazon.com/images/I/511TSwGEV0L._UX358_FMwebp_QL85_.jpg'
     },
     song2: {
       id: 197,
