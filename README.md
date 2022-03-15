@@ -4,7 +4,7 @@
 
 A RESTful API created to accompany the [Chart Toppers UI](https://github.com/aliroemhildt/chart-toppers). This server is written in JavaScript using Express and Node.js. This API contains data for the top 5 songs from the Billboard Year End chart for the years 1980 - 2021. Each song object contains an id, title, artist, and image url. 
 
-View the Heroku deployment [here](https://dashboard.heroku.com/apps/chart-toppers-api)
+View the Heroku deployment [here](https://chart-toppers-api.herokuapp.com/api/v1/songs)
 
 ## Set Up
 
